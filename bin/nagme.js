@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { setInterval } from 'timers';
 
 const notifier = require('node-notifier');

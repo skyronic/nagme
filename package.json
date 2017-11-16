@@ -5,6 +5,9 @@
   "main": "index.js",
   "license": "MIT",
   "private": false,
+  "bin": {
+    "nagme": "bin/nagme.js"
+  },
   "dependencies": {
     "minimist": "^1.2.0",
     "node-notifier": "^5.1.2"
