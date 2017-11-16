@@ -5,6 +5,12 @@
   "main": "index.js",
   "license": "MIT",
   "private": false,
+  "repository": "skyronic/nagme",
+  "author": {
+    "name": "Anirudh Sanjeev",
+    "email": "skyronic@gmail.com",
+    "url": "skyronic.com"
+  },
   "bin": {
     "nagme": "bin/nagme.js"
   },
