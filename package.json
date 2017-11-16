@@ -1,0 +1,12 @@
+{
+  "name": "nagme",
+  "version": "0.0.1",
+  "description": "Nags you",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "node-notifier": "^5.1.2"
+  }
+}
